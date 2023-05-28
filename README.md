@@ -1,1 +1,1 @@
-# analyze-an-image-using-Histogram
+# Analyze-an-image-using-Histogram
